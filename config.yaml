@@ -1,2 +1,2 @@
 path: "kkn_model.joblib"
-features: ['PPE', 'RPDE']
+features: ['PPE', 'DFA']
